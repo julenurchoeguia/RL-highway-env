@@ -16,7 +16,9 @@ Before starting the project, it is essential to understand the environment's doc
 
 In the Highway Fast Environment task, the goal is to solve the `highway-fast` environment using a Deep Q-Network (DQN) implemented from scratch. The code for this task is located in the Jupyter notebook `highway_fast_dqn.ipynb`.
 
-The notebook covers the implementation of a DQN approach to solve the `highway-fast` environment. The environment's configuration is fixed according to the project instructions provided in `config.py`.
+The notebook covers the implementation of a DQN approach to solve the `highway-fast` environment.
+
+Weights are already ready to test the model with files `highway_fast_dqn_1000.pth` (1000 episodes) and `highway_fast_dqn_5000.pth` (5000 episodes)
 
 ## Continuous Actions <a name="continuous-actions"></a>
 
