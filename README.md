@@ -16,10 +16,10 @@ In the Highway Fast Environment task, the goal is to solve the `highway-fast` en
 Weights are already ready to test the model with files `highway_fast_dqn_1000.pth` (1000 episodes) and `highway_fast_dqn_5000.pth` (5000 episodes)
 
 ## Continuous Actions <a name="continuous-actions"></a>
-For the Highway Parking Environment task, we tested two approches implemented in `parking_ppo.ipynb` and `parking_ddpg_with_her.ipynb`.
+For the Highway Parking Environment task, we tested two approches implemented in `parking_ppo.ipynb` and `parking_ddpg_with_her.ipynb`, located in the folder `parking_env`.
 
 ## Reference Implementations: Stable Baselines <a name="reference-implementations-stable-baselines"></a>
-For the Highway Racetrack Environement task, we tested various approches implemented in the notebooks located in `racetrack_env`.
+For the Highway Racetrack Environement task, we studied the implementation of SAC algorithm with two different reward configuration. The notebooks are located in `racetrack_env`.
 
 
 
